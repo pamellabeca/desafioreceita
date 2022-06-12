@@ -9,21 +9,62 @@
 body{
     font-family: 'Roboto', sans-serif;
     background-color:#EAEAEA;
+    
 }
 
 .main{
+    margin-top: 45px;
+    margin-left: 125px;
+    margin-bottom: 45px;
+    margin-right: 125px;
+    padding: 125px;
     background-color:#FFFFFF;
+    border-radius: 10px;
 }
 
-.title{
+.main .title{
     font-weight: 700;
     font-size: 28px;
+    text-align: center;
 }
 
-.title img{
+.main .title img{
     width: 100%;
     height: 250px;
     object-fit: cover;
     border-radius: 10px;
 }
 
+.main .title .legenda{
+    font-weight: 400;
+    font-size: 12px;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3{
+    font-weight: 700;
+    font-size: 18px;
+    text-align: left;
+}
+ul ol{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+}
+
+.main .ingredients{
+    line-height: 26px;
+}
+
+.main .ingredients .massa{
+
+}
+
+.preparo{
+    line-height: 26px;
+}
