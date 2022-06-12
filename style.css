@@ -10,3 +10,13 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color:#EAEAEA;
 }
+
+.main{
+    background-color:#FFFFFF;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 28px;
+
+}
