@@ -40,6 +40,7 @@ body{
     font-weight: 400;
     font-size: 12px;
     text-align: right;
+    color: #8F8F8F;
 }
 
 h2{
@@ -47,6 +48,7 @@ h2{
     font-size: 20px;
     text-align: center;
     color: #1B1B1B;
+    line-height: 26px;
 }
 
 h3{
@@ -54,11 +56,13 @@ h3{
     font-size: 18px;
     text-align: left;
     color: #1B1B1B;
+    line-height: 26px;
 }
 ul ol{
     font-weight: 400;
     font-size: 16px;
     text-align: left;
+    line-height: 26px;
 }
 
 .main .ingredients{
