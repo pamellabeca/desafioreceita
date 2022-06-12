@@ -26,6 +26,7 @@ body{
     font-weight: 700;
     font-size: 28px;
     text-align: center;
+    color: #1B1B1B;
 }
 
 .main .title img{
@@ -38,18 +39,21 @@ body{
 .main .title .legenda{
     font-weight: 400;
     font-size: 12px;
+    text-align: right;
 }
 
 h2{
     font-weight: 700;
     font-size: 20px;
     text-align: center;
+    color: #1B1B1B;
 }
 
 h3{
     font-weight: 700;
     font-size: 18px;
     text-align: left;
+    color: #1B1B1B;
 }
 ul ol{
     font-weight: 400;
